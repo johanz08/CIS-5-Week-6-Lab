@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 For your video, you must explain your logic for these two loops. Failure to do so will result in an incomplete assignment, which is a 0.
 
-**Your demo:** https://youtu.be/tCjUaz54cGw)
+**Your demo:** https://youtu.be/tCjUaz54cGw
 
 
 ## What to build
